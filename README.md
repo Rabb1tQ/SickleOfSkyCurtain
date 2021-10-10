@@ -12,11 +12,13 @@ I found that there was no zoomeye GUI in the market, so I wrote one myself. The 
 
 2. Excel can be exported
 
+
+
 ## TODO
 
 1. Add multithreading and use multithreading for parallel processing of multiple pages
 
-2. It needs to be modified when exporting excel
+2. ~~It needs to be modified when exporting excel~~
 
 3. English version
 
