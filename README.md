@@ -1,6 +1,6 @@
 # Sickle Of Sky Curtain
 
-If you find that there is no zoomeye GUI on the market, write one yourself. The interface is a little ugly
+I found that there was no zoomeye GUI on the market, so I wrote one. emmmm, The interface is a little ugly
 
 ## Usage
 
